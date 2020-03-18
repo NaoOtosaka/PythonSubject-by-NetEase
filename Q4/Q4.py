@@ -1,7 +1,7 @@
 # coding=UTF-8
 
 # 题目:
-# 给邮箱 qa_2020@163.com 发送邮件，主题为自己的姓名，正文为"hello world"
+# 给邮箱 xxxxx@163.com 发送邮件，主题为自己的姓名，正文为"hello world"
 # 考察点：邮件操作
 
 # 引入smtp模块和email模块
